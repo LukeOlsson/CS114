@@ -84,7 +84,7 @@ void recordAndCount(char listarray[], int counterarray[], char input)  //Records
 		}
 	}
 }
-
+		//A Change.
 void answerDisplay(char listarray[], int counterarray[])
 {
 	for (int i = 0; i < 26; i++)
